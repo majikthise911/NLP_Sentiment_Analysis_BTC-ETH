@@ -1,4 +1,4 @@
-# Unit 12—Tales from the Crypto
+# NLP_Sentiment_Analysis_BTC-ETH
 
 ![Stock Sentiment](Images/sentimental.jpeg)
 
