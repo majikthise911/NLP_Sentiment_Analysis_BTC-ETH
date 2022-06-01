@@ -1,6 +1,6 @@
 # NLP_Sentiment_Analysis_BTC-ETH
 
-![Stock Sentiment](Images/sentimental.jpeg)
+
 
 ## Background
 
